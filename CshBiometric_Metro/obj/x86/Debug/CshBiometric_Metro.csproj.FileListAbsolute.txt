@@ -1,0 +1,16 @@
+c:\users\sameena\documents\visual studio 2010\Projects\CshBiometric_Metro\CshBiometric_Metro\obj\x86\Debug\CshBiometric_Metro.Properties.Resources.resources
+c:\users\sameena\documents\visual studio 2010\Projects\CshBiometric_Metro\CshBiometric_Metro\obj\x86\Debug\CshBiometric_Metro.csproj.GenerateResource.Cache
+c:\users\sameena\documents\visual studio 2010\Projects\CshBiometric_Metro\CshBiometric_Metro\bin\Debug\CshBiometric_Metro.pdb
+c:\users\sameena\documents\visual studio 2010\Projects\CshBiometric_Metro\CshBiometric_Metro\obj\x86\Debug\CshBiometric_Metro.exe
+c:\users\sameena\documents\visual studio 2010\Projects\CshBiometric_Metro\CshBiometric_Metro\obj\x86\Debug\CshBiometric_Metro.pdb
+c:\users\sameena\documents\visual studio 2010\Projects\CshBiometric_Metro\CshBiometric_Metro\obj\x86\Debug\CshBiometric_Metro.AboutBiometricMetro.resources
+c:\users\sameena\documents\visual studio 2010\Projects\CshBiometric_Metro\CshBiometric_Metro\obj\x86\Debug\CshBiometric_Metro.MainForm.resources
+c:\users\sameena\documents\visual studio 2010\Projects\CshBiometric_Metro\CshBiometric_Metro\bin\Debug\CshBiometric_Metro.exe.config
+c:\users\sameena\documents\visual studio 2010\Projects\CshBiometric_Metro\CshBiometric_Metro\obj\x86\Debug\CshBiometric_Metro.login.resources
+c:\users\sameena\documents\visual studio 2010\Projects\CshBiometric_Metro\CshBiometric_Metro\bin\Debug\database.mdf
+c:\users\sameena\documents\visual studio 2010\Projects\CshBiometric_Metro\CshBiometric_Metro\bin\Debug\database_log.ldf
+C:\Users\Sameena\Documents\Visual Studio 2010\Projects\CshBiometric_Metro\CshBiometric_Metro\obj\x86\Debug\CshBiometric_Metro.Boardtrain.resources
+C:\Users\Sameena\Documents\Visual Studio 2010\Projects\CshBiometric_Metro\CshBiometric_Metro\obj\x86\Debug\CshBiometric_Metro.passengerinfo.resources
+C:\Users\Sameena\Documents\Visual Studio 2010\Projects\CshBiometric_Metro\CshBiometric_Metro\obj\x86\Debug\CshBiometric_Metro.csprojResolveAssemblyReference.cache
+C:\Users\Sameena\documents\visual studio 2010\Projects\CshBiometric_Metro\CshBiometric_Metro\obj\x86\Debug\CshBiometric_Metro.boarddetails.resources
+C:\Users\Sameena\documents\visual studio 2010\Projects\CshBiometric_Metro\CshBiometric_Metro\obj\x86\Debug\CshBiometric_Metro.Startup.resources
